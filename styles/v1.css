@@ -1,0 +1,144 @@
+body {
+  background-color: white;
+  border-top-style: double;
+  border-bottom-style: double;
+  border-width: 25px;
+}
+
+h1 {
+  font-family: fantasy;
+  font-size: 100px;
+  text-align: center;
+  text-decoration: underline;
+  color: red;
+  background-color: white;
+  text-align: center;
+}
+
+h2{
+  background-color: red;
+  color: white;
+  font-size: 50px;
+  font-family: serif;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+p {
+  font-family: monospace;
+  color: red;
+  line-height: 1.5em;
+  font-size: 18px;}
+
+li {
+    color: red;
+    font-family: serif;
+    line-height:1.5em;
+}
+
+blockquote {
+  background-color: white;
+  color: #912511;
+  font-style: italic;
+}
+
+cite {
+  font-style: italic;
+}
+
+strong {
+  font-weight:bold;
+}
+
+em{
+  font-style: italic;
+}
+
+.navcontainer{
+  text-align: center;
+}
+
+.navigation {
+  display:inline;
+  font-size: 20px;
+  margin: 10px 20px;
+}
+
+.navbar{
+  text-decoration: none;
+}
+
+a:link{
+  color: #1263dd;
+  text-decoration: none;
+}
+
+p.letter:first-letter{
+  font-size: 250%;
+}
+
+
+.welcome{
+  text-align: center;
+}
+
+
+img.middle {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+img.ball {
+  margin-left: 50px;
+}
+
+.diploma {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+}
+
+img.Bernard {
+  margin-left: 50px;
+}
+
+.centercap {
+  text-align:center;
+  font-family: monospace;
+  color: red;
+  margin-top: 10px;
+}
+
+.homepageblog {
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+.articlecontainer{
+  margin-left: 80px;
+  margin-right: 80px;
+}
+
+.containerintro{
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+.aboutintro{
+  text-align: center;
+}
+
+.contact{
+  text-align: center;
+}
+
+.contactcontainer{
+  margin-left: 80px;
+  margin-right: 80px;
+}
+
+.blogcontainer{
+  margin-left: 80px;
+  margin-right: 80px;
+}
